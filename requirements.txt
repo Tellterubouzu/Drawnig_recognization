@@ -1,0 +1,13 @@
+flask
+gradio
+transformers
+sounddevice
+requests
+soundfile
+ftfy
+regex
+tqdm
+gradio
+transformers
+sentencepiece
+bitsandbytes
