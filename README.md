@@ -1,10 +1,12 @@
 # お絵描き認識
 ## セットアップ
-1. パソコンにログイン
-ユーザーは下村晃生でパスワード" 1937 "です
-2. ソフトの立ち上げ
+1. ライブラリのインストール
+terminalでpip install requirements.pyを実行
+3. モデルのダウンロード
+model_donwnloader.pyを実行
+4. ソフトの立ち上げ
 visual Stdusio Code とvoice voxを立ち上げる
-3. visualstudiocodeでフォルダを開く 　
+5. visualstudiocodeでフォルダを開く 　
 左上のFileからDrawingRecognizationを開く
 <img src="./images/フォルダ開く.png" height="250" > <img src="./images/フォルダー.png" height="200" > 
 
