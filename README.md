@@ -1,13 +1,13 @@
 # お絵描き認識
 ## セットアップ
 1. ライブラリのインストール
-terminalでpip install requirements.pyを実行
+  terminalでpip install requirements.pyを実行
 3. モデルのダウンロード
-model_donwnloader.pyを実行
+  model_donwnloader.pyを実行
 4. ソフトの立ち上げ
-visual Stdusio Code とvoice voxを立ち上げる
+  visual Stdusio Code とvoice voxを立ち上げる
 5. visualstudiocodeでフォルダを開く 　
-左上のFileからDrawingRecognizationを開く
+  左上のFileからDrawingRecognizationを開く
 <img src="./images/フォルダ開く.png" height="250" > <img src="./images/フォルダー.png" height="200" > 
 
 4.仮想環境を起動してファイルの実行
