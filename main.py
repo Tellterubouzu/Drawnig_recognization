@@ -1,6 +1,13 @@
 # @title Launch the demo
 import gradio as gr
 from vlm import vlm
+"""
+if you use
+paligemma : from vlm import vlm
+minicpm : from vlm_minicpm import vlm
+"""
+
+
 vlm = vlm()
 def vlm_predict(image,prompt):
     return vlm.predict(image,prompt)

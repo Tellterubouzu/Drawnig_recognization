@@ -11,3 +11,7 @@ gradio
 transformers
 sentencepiece
 bitsandbytes
+pillow
+sentencepiece
+decord
+qwen-vl-utils
